@@ -9,7 +9,8 @@ ${yt}
 ${instagram}
 
 \`\`\`GROUP OFFICIAL\`\`\`
- https://chat.whatsapp.com/F1aEGHydcNqESvVkSlyRBp
+ https://instagram.com/joceylintangg
+ https://tiktok.com/@joceylintangg
 
 \`\`\`HARAP BACA NOTE DIATAS SEBELUM\`\`\`
 \`\`\`MENGGUNAKAN BOT\`\`\`
