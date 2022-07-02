@@ -59,9 +59,9 @@ const anlink = JSON.parse(fs.readFileSync('./database/json/antilink.json'))
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:AZIZAE\n'
-            + 'ORG:Creator aebot;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285155441072:+62 851-5544-1072\n'
+            + 'FN:LINTANG\n'
+            + 'ORG:Creator LINTANG BOT;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6281322577123:+62 813-2257-7123\n'
             + 'END:VCARD'
 
 limitt = '1000'
