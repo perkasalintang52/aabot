@@ -1,5 +1,5 @@
 {
-  "name": "termux-bot-wa",
+  "name": "LINTANG BOT",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -51,10 +51,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azizae-official/aebot.git"
+    "url": "git+https://tiktok.com/@joceylintangg"
   },
   "bugs": {
-    "url": "https://github.com/azizae-official/aebot/issues"
+    "url": "https://tiktok.com/@joceylintangg"
   },
-  "homepage": "https://github.com/azizae-official/aebot#readme"
+  "homepage": "https://tiktok.com/@joceylintangg"
 }
